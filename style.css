@@ -1,0 +1,57 @@
+/* komentarz w CSS */
+
+body{
+	background-color: #66FFCC;
+}
+#pierwszy{
+	color: blue;
+	padding: 5px;
+	text-align: justify;
+}
+#drugi{
+	color: #CC00CC;
+	padding: 5px;
+	font-family: Calibri;
+}
+#trzeci{
+	color: #808080;
+	padding: 5px;
+	font-size: 20px;
+}
+h1{
+	color: #FF1493;
+	font-size: 45px;
+	text-align: center;
+	background-color: blue;
+	padding: 10px;
+}
+h2{
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+#czerwony{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+}
+#zielony{
+	background-color: lime;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+}
+#niebieski{
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 20px;
+}
+#kontener{
+	width: 800px;
+	height: 200px;
+	margin: 0 auto;
+}
